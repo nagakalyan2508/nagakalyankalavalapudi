@@ -2,7 +2,7 @@
 Data science portfolio
 # Welcome to My Portfolio
 
-![Professional Picture](gnani dp.jpeg)
+![Your Name](gnani dp.jpeg))
 
 ## About Me
 
