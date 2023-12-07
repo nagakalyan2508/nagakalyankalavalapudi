@@ -21,7 +21,7 @@ Feel free to reach out to me if you have any questions or collaboration opportun
 
 Here are some of my highlighted projects:
 
-- [Project 1](link-to-project1): Brief description.
+- [Project 1](https://docs.google.com/file/d/1p2b9937UupDJkZmgbwxzIIYR-V_vk84u/edit?filetype=msword): Brief description.
 - [Project 2](link-to-project2): Brief description.
 
 ...
