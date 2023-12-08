@@ -6,7 +6,7 @@ Data science portfolio
 
 ## About Me
 
-Hi, I'm [Your Name]. I am a passionate [Your Profession/Title] with expertise in [Your Skills]. I enjoy working on [Describe your interests or projects].
+Hi, I'm nagakalyan kalavalapudi. I am a full time masters student with expertise in advanced data analytics. I enjoy working on projects involving data visualisation data intepretetion.
 
 ## Contact Information
 
