@@ -11,9 +11,8 @@ Hi, I'm [Your Name]. I am a passionate [Your Profession/Title] with expertise in
 ## Contact Information
 
 - **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [Your Twitter Profile](https://twitter.com/your-handle)
-- **Portfolio:** [Link to Portfolio](https://yourusername.github.io)
+- **LinkedIn:** [Sai Gnanesh Kalavalapudi](https://www.linkedin.com/in/sai-gnanesh-kalavalapudi-770a27208)
+- **Portfolio:** [Link to Portfolio](https://)
 
 Feel free to reach out to me if you have any questions or collaboration opportunities!
 
