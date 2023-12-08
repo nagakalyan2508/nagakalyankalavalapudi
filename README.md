@@ -10,7 +10,7 @@ Hi, I'm [Your Name]. I am a passionate [Your Profession/Title] with expertise in
 
 ## Contact Information
 
-- **Email:** your.email@example.com
+- **Email:** your.saignaneshkalavalapudi@gmail.com
 - **LinkedIn:** [Sai Gnanesh Kalavalapudi](https://www.linkedin.com/in/sai-gnanesh-kalavalapudi-770a27208)
 - **Portfolio:** [Link to Portfolio](https://)
 
