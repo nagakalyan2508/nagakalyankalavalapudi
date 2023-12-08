@@ -21,8 +21,10 @@ Feel free to reach out to me if you have any questions or collaboration opportun
 
 Here are some of my highlighted projects:
 
-- [Project 1](https://docs.google.com/file/d/1p2b9937UupDJkZmgbwxzIIYR-V_vk84u/edit?filetype=msword): Brief description.
-- [Project 2](link-to-project2): Brief description.
+- [Project 1](https://docs.google.com/file/d/1p2b9937UupDJkZmgbwxzIIYR-V_vk84u/edit?filetype=msword): Our initiative revolves around the thorough analysis of the Thruway Toll Gantries dataset, aiming to revolutionize traffic planning and optimize toll collection for the New York State Thruway Authority. The overarching goals encompass improving decision-making processes and
+enhancing the overall user experience.
+In addressing key problem statements, 
+
 
 ...
 
